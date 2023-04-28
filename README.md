@@ -27,5 +27,5 @@ Although it is immature, I would appreciate your favor.
 ## 학습하고 있는 언어 / 学習中の言語　/ Learning Language
 - React
 
-##　연락처 / 連絡先 / Contact
+## 연락처 / 連絡先 / Contact
 Mail : devjp3809@gmail.com
