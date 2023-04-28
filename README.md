@@ -28,10 +28,10 @@ Although it is immature, I would appreciate your favor.
 
 ## 사용할 수 있는 언어 / 使える言語 / Language to use
 ----
-주로 사용하는 언어 / 主に使ってる言語　/ Mostly used language
+주로 사용하는 언어 / 主に使ってる言語 / Mostly used language
   Java, javascript, CSS, JSP, Mysql
 
-그 외 사용 가능한 언어 / 他の利用可能な言語 /Other languages available
+그 외 사용 가능한 언어 / 他の利用可能な言語 / Other languages available
   C, C++, PHP, Ruby
 
 ## 학습하고 있는 언어 / 学習中の言語　/ Learning Language
