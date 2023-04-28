@@ -25,7 +25,9 @@ Although it is immature, I would appreciate your favor.
   - Linux / Tomcat 10.0.x / JSP 3.0 / Servlet 5.0 / JDK 17 / MariaDB 10.1.x UTF-8
 
 ## 학습하고 있는 언어 / 学習中の言語　/ Learning Language
+----
 - React
 
 ## 연락처 / 連絡先 / Contact
+----
 Mail : devjp3809@gmail.com
