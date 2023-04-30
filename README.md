@@ -1,16 +1,16 @@
 ## 자기소개 / 事項紹介 / Introduce
 ----
-2022년11월부터 현재까지 일하고 있는 한국인 웹개발자입니다.
+2021년11월부터 현재까지 일하고 있는 한국인 웹개발자입니다.
 현재 업무는 백앤드, 프론트앤드, 데이터베이스 개발 및 유지보수, 서버 관리를 담당하고 있습니다.
 이 깃허브에 올리는 것은 제가 공부하는 것과 개인개발 한 것입니다.
 미숙하지만 잘 부탁드립니다.
 
-2022年11月から現在まで働いてる韓国人Web開発者です。
+2021年11月から現在まで働いてる韓国人Web開発者です。
 現在の業務内容はサーバーサイド、フロント、データーベース開発・運用・保守、サーバー管理を担当しています。
 このGitHubに乗っける物は自分で勉強する物や個人開発する物です。
 未熟な物ですが、宜しくお願いします。
 
-I'm a Korean web developer working from November 2022 to the present.
+I'm a Korean web developer working from November 2021 to the present.
 Currently, I am in charge of server side, front desk, database development/operation/maintenance, and server management.
 Things to put on this GitHub are things to study and personal development by myself.
 Although it is immature, I would appreciate your favor.
