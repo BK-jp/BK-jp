@@ -37,6 +37,7 @@ Although it is immature, I would appreciate your favor.
 ## 학습하고 있는 언어 / 学習中の言語　/ Learning Language
 ----
 - React
+- go
 
 ## 연락처 / 連絡先 / Contact
 ----
