@@ -40,5 +40,5 @@ Although it is immature, I would appreciate your favor.
 
 ## 연락처 / 連絡先 / Contact
 ----
-Mail : devjp3809@gmail.com
-Slack : devjp3809@gmail.com
+- Mail : devjp3809@gmail.com
+- Slack : devjp3809@gmail.com
